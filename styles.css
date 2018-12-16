@@ -15,16 +15,16 @@ p{
     color: gray
 }
 .discourse{
-    color: #ec008c;
+    color: #00aeef;
 }
 .btn-esn{
-    color: #ec008c;
-    border-color: #ec008c;
+    color: #00aeef;
+    border-color: #00aeef;
     
 }
 .btn-esn:hover{
-    background-color: #ec008c;
-    border-color: #ec008c;
+    background-color: #00aeef;
+    border-color: #00aeef;
 }
 .btn-special{
     color: grey;
