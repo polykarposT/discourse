@@ -1,0 +1,39 @@
+body{
+  background: url(welcome2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.row{
+ margin-top: 10%;
+}
+
+p{
+    font-family: "Arial" !important;
+    font-size:30px;
+    color: gray
+}
+.discourse{
+    color: #ec008c;
+}
+.btn-esn{
+    color: #ec008c;
+    border-color: #ec008c;
+    
+}
+.btn-esn:hover{
+    background-color: #ec008c;
+    border-color: #ec008c;
+}
+.btn-special{
+    color: grey;
+    border-color: grey;
+}
+.btn-special:hover{
+    background-color: grey;
+    border-color: grey;
+}
+.bg-white{
+    opacity: 0.9;
+}
